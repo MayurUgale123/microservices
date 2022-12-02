@@ -1,0 +1,4 @@
+com\microservice\communication\orderservice\config\WebClientConfig.class
+com\microservice\communication\orderservice\OrderServiceApplication.class
+com\microservice\communication\orderservice\service\OrderService.class
+com\microservice\communication\orderservice\controller\OrderController.class
